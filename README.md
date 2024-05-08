@@ -1,1 +1,1 @@
-# ForkTest
+Bu depo github da oluşturulmuş
